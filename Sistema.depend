@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1625856258 source:/home/igor/Desktop/CEFET-MG/Prog C++/Sistema/Disco.cpp
+	"Disco.hpp"
+
+1625855391 /home/igor/Desktop/CEFET-MG/Prog C++/Sistema/Disco.hpp
+	<string>
+	<iostream>
+
+1626025495 source:/home/igor/Desktop/CEFET-MG/Prog C++/Sistema/main.cpp
+	<iostream>
+	"Disco.hpp"
+	<stdio.h>
+	<string>
+	<cstring>
+	<fstream>
+
